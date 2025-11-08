@@ -1,4 +1,4 @@
-# Trafilea Prepare - Clean Architecture
+# Clean Architecture
 
 This application follows Clean Architecture principles, ensuring separation of concerns and dependency inversion.
 
